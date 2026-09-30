@@ -1,0 +1,3 @@
+COMO CAPTURAR O CÓDIGO DE QUALQUER COR DE QUALQUER LUGAR!!
+
+É só tirar print da tela onde esta a cor desejada e colar a img no GIMP, após isso é só procurar no GIMP a ferramenta de CONTA GOTAS e clicar na cor desejada da img. (para entender melhor , acessar o vídeo do Gustavo Guanabara Módulo 2 ep 6)

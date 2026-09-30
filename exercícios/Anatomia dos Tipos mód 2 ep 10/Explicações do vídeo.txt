@@ -1,0 +1,22 @@
+Anatomia do  tipo- Módulo 2 ep 10
+
+
+Na maioria das fontes existem dois tipo de tamanhos de letras , sendo elas:
+-Tamanho x (minúsculo): Tamanho da maioria das letras minúsculas.
+-Tamanho das maiúsculas: Tamanho da Maioria das letras maiúsculas.
+-Ascendente: Espaço das letras que vazaram para cima.
+-Descendente: Espaço das letras que vazaram para baixo.
+-Corpo: Altura de tudo.
+
+
+ NESSA MESMA PASTA TERÁ UMA IMG QUE IDENTIFICA ONDE ESTÁ CADA COMPONENTE ANATOMICO GEOMÉTRICO E DE CORPO!
+
+-Glifo: Os Glifos são as letras (A,B,C,d,e...), tanto maiúsculas quanto minúsculas.
+-Fonte: As Fontes são os conjuntos de glifos.
+-Família tipográfica: São os diferentes tipos de estilos de letras de uma mesma fonte.
+
+NESSA MESMA PASTA TERÁ UMA IMG QUE IRÁ MOSTRAR OS TIPOS EXISTENTES DE UMA FAMILIA TIPOGRÁFICA!
+
+-Categoria de fontes: nome dado a um tipo de fonte de acordo com as suas características.
+
+NESSA MESMA PASTA TERÁ UMA IMG QUE IRÁ MOSTRAR OS TIPOS EXISTENTES DE Categoria de fontes!

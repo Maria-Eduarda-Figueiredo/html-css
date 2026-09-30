@@ -1,0 +1,17 @@
+@charset "UTF-8"; /* essa tag é colocada para o nosso site não dar erro com algum simbolo que colocarmos*/ 
+body {
+    background-image: linear-gradient(to left, #012340 ,#025939,#027333,#03A63C,#04D939);
+}
+ main { 
+    background-color: white; color: black;
+    width: 600px; padding: 10px; margin: auto; border-radius: 20px; box-shadow: 5px 5px 20px #012340 ;
+ }
+/*width é para por ALTURA*/
+h1 {
+    color: #025939;font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-shadow: 2px 2px 5px #025939 ;
+}
+h2{
+color:#03A63C ;
+}

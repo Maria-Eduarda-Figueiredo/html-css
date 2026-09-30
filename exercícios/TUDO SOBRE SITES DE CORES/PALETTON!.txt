@@ -1,0 +1,4 @@
+PALETTON!
+
+Paletton é um site parecido com o adobe color, onde também tem um circulo cromático mas nele tem algumas outras funções incluindo dar exemplos de site com uma determinada cor ou paleta.
+olha no ep 5 do módulo 2 de html e css do Gustavo Guanabara 

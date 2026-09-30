@@ -1,0 +1,4 @@
+ADOBE COLOR!
+
+Adobe color foi um site que conhecemos no ep 5 "Paleta de cores" do Módulo 2 do curso de Html e Css do Gustavo Guanabara.
+Nesse site é possível ver o circulo cromático e com ele é possível fazer degrades, sabe a cor exata de uma logo , saber uma cor exata de um código que o cliente mandar, etc.

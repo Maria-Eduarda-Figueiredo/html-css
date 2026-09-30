@@ -1,0 +1,24 @@
+div{
+    background-color: rgb(207, 206, 206);
+    text-align: center;
+    height: 200px; /*altura*/
+    width: 200px; /*largura*/
+    border: 1px solid black; /*linhas*/
+    display: inline-block; /*p/ por tudo na mesma linha*/
+}
+div#d1:hover{ /*#d1 é para poder editar só o d1. hover é para quando passar o mouse aparecer a cor*/
+    background-color: rgb(6, 255, 6)
+    
+}
+
+div#d2:hover{
+    background-color: rgb(255, 251, 0);
+}
+div#d3:hover{
+    background-color: rgb(255, 0, 0);
+}
+
+
+ /*div é uma classe*/
+ /* : é para adicionar uma pseudoclasse*/
+ /* hover é uma pseudoclasse*/

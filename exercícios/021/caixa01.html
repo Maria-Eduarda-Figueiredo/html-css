@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modelo de caixas</title>
+    <style>
+        h1{ /*BOX-LEVEL*/
+           background-color: lightgray;
+            height: 300px;
+            width: 300px;
+
+            border-width: 10px; /*largura da borda*/
+            border-style: solid; /*borda com seu estilo*/
+            border-color: darkslategray; /*cor da borda*/
+           
+            border: 10px solid darkslategray; /*jeito simplificado de escrever os 3 borders de cima*/ /*SEMPRE NESSA ORDEM*/
+            
+            padding-top: 10px; /*Distancia de cima do h1 para a borda*/
+            padding-right: 10px; /*Distancia da direita do h1 para a borda*/
+            padding-bottom: 10px; /*Distancia de baixo do h1 para a borda*/
+            padding-left: 10px;/*Distancia da esquerda do h1 para a borda*/
+
+            padding:  10px 10px 10px 10px; /*jeito simplificado de escrever os 4 paddings de cima/* /*SEMPRE NESSA ORDEM*/
+
+            margin-top:20px;
+            margin-right: 20px;
+            margin-bottom: 40px;
+            margin-left:20px;
+            
+            margin: 20px auto 40px auto; /*jeito simplificado de escrever as 4 margin de cima*/ /*SEMPRE NESSA ORDEM*/ /*OS QUE ESTAO ESCRITO AUTO SÃO PARA CENTRALIZAR*/
+
+            outline-width: 5px;
+            outline-style: dash ;
+            outline-color: lightgreen;
+
+            outline: 5px dash lightgreen; /*jeito simplificado de escrever os 3 outline de cima*/
+        }
+        a{ /*INLINE-LEVEL*/
+            background-color: rgb(204, 235, 245);
+            border-style: solid;
+        border-color: black;
+        border-width: 2px;
+        }
+        a:hover{
+        color: red;
+        background-color: yellow;
+        border-width: 10px;
+        }
+        p{
+        border: 1px;
+        border-color: red;
+        border-style: solid;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exemplo de caixa box-level</h1>
+    <p>Parágrafos também são exemplos de box-level, mas os <a href="https://www.instagram.com/maria._ffs/"  target="_blank">Links são exemplos de caixas inline-level</a> Vamos ver como tudo isso funciona.</p>
+</body>
+</html>

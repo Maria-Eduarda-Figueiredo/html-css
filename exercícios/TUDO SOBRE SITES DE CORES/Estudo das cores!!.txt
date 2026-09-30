@@ -1,0 +1,14 @@
+ESTUDANDO CSS!!
+
+ESTUDO DAS CORES!
+Azul- muito utilizado por vários sites , pois traz um ar de confiança e é uma cor que a maioria da população gosta.
+vermelho- cor que traz sentimentos fortes, amor, atenção, perigo, por isso a importância de saber quando usar. (Não usar nos primeiros sites, pois não trazem uma grande confiança ao público e pode acabar tendo outro sentido n cabeça do telespectador.
+Fundo preto com letra branca- causa cansaço ao leitor por isso atenção ao usar e sempre que usar colocar uma imagem , animação , etc para distrair o leitor.
+Fundo branco com letra preta- Usar ao escrever uma página longa, com muito texto. Esse método é muito comum por grandes empresas, por que mesmo que seja básico é oque o cérebro das pessoas estão acostumados a ver.
+Vermelho com Amarelo- Usado normalmente em sites de alimentação ou para demonstrar felicidade.
+Marrom e preto- Quando usados em sites de alimentação, dão ideia de premium.
+Verde- sites de natureza, sorte, saúde , dinheiro e inveja.
+Rosa- Amor, romance , cuidado , sinceridade, doce. (produtos femininos)
+Amarelo e dourado- sites de riqueza, dinheiro, grife , alto padrão.
+
+QUANDO FAZER UM SITE , PESQUISAR TABELAS DE CORES DE ACORDO COM O TEMA DO SEU SITE!!

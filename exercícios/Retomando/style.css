@@ -1,0 +1,16 @@
+body {
+            background-image: linear-gradient(to right, #F2E205,#FFFF01,#FE0000); 
+        } 
+        h1 {
+font-family: 'Arial';text-align: center; font-style: unset;
+        }
+        p {
+font-style: italic ;font-family: 'verdana'; color: rgb(0, 0, 0);
+        }
+        main {
+            background-color: azure;width: 700px; padding: 30px; margin: auto;
+        }
+        /* -Tudo que ta no body é para por o degrade de fundo e a direção do degrade.
+           -O que está em h1 é para definir a fonte do título e para deixar ele centralizado
+           -O que está em p é para definir a fonte e o estilo do parágrafo e cor da letra
+           -O que está em main é para definir a cor doo quadrado do fundo, para mudar a largura, tamanho e para centraliza-lo.

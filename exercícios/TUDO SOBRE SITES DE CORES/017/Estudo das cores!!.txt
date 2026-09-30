@@ -1,0 +1,11 @@
+Círculo cromático:
+Harmonização de cores.
+Circulo cromático salvo no paint (Cores primarias, secundarias e terciarias, cores frias e quentes)
+
+cores complementares, só fazer uma reta na cor que deseja saber do circulo cromático.
+cores análogas, para saber é só olhar as duas cores do lado da que deseja saber, lado esquerdo e direito
+cores intercaldas, para saber é so escolher a cor utilizada e pular a próxima e escolher a outra tanto da esquerda quanto da direita
+cores triádicas, igual a intercaladas só que pulando três cores
+cores em quadrado , igual as outras mas pulando 2 cores
+cores tatradicas, para saber é so fazer um retângulo ligando 4 cores
+cores monocromia, é so egar uma cor do circulo e colocar luz ou saturação
